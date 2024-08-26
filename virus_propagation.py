@@ -98,5 +98,5 @@ def run_simulation(taxa_infeccao):
 
     plt.show()
 
-# Rodar a simulação com o valor inicial do slider
+# Valor inicial do slider 0.01
 run_simulation(0.01)
